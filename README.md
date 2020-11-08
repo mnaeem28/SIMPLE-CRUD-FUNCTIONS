@@ -1,10 +1,10 @@
 # Simple CRUD Function
 
-## About
 
-Simple CRUD function application using python.
 
 ## Functions
+   
+   Simple CRUD function application using python.
 
 * registeration
 * login
@@ -15,4 +15,7 @@ Simple CRUD function application using python.
 * user can edit his own projects
 * Data Saved on files
 
-## screenshots
+## screen
+![](https://github.com/mnaeem28/SIMPLE-CRUD-FUNCTIONS/blob/master/reges%26login.png)
+![](https://github.com/mnaeem28/SIMPLE-CRUD-FUNCTIONS/blob/master/create%26view%20project.png)
+
